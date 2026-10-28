@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.gitsolve/
+*.egg-info/
+dist/
+build/
+.cache/
+gitsolve_portfolio.md
