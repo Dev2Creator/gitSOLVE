@@ -15,6 +15,11 @@ DEFAULT_CONFIG: Dict[str, Any] = {
     "max_pushed_days": 30,
     "scans_completed": 0,
     "gems_discovered": 0,
+    "user_name": "",
+    "pronouns": "",
+    "curator_title": "",
+    "mascot": "hoodie",
+    "onboarded": False,
 }
 
 def get_config_dir() -> Path:
